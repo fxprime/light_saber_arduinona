@@ -1,3 +1,11 @@
+/**
+ * ArduinoNa : Lightsaber project
+ * Author : Thanabadee Bulunseechart
+ * "THE BEER-WARE LICENSE" (Revision 42):
+ * <paheyisoicus@gmail.com> wrote this file.  As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return.   Poul-Henning Kamp
+ */
 typedef enum {
   light_off=0,
   light_turning_on,

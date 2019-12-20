@@ -1,3 +1,12 @@
+/**
+ * ArduinoNa : Lightsaber project
+ * Author : Thanabadee Bulunseechart
+ * "THE BEER-WARE LICENSE" (Revision 42):
+ * <paheyisoicus@gmail.com> wrote this file.  As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return.   Poul-Henning Kamp
+ */
+ 
 #include <Bounce2.h>
 #define NUM_BUTTONS 1                          //กำหนดจำนวนปุ่ม
 const uint8_t BUTTON_PINS[NUM_BUTTONS] = {3}; //กำหนดพินปุ่ม ถ้าหลายปุ่มคั่นด้วย comma ,
